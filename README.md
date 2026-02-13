@@ -5,4 +5,4 @@
 ![Lereve](https://github.com/user-attachments/assets/329b12d4-b7d1-41f6-92d0-e41dbad54804)
 ![Caspar](https://github.com/user-attachments/assets/116451bb-6c0a-4481-acfb-0899b4736293)
 ![Nighthawks](https://github.com/user-attachments/assets/e4431b9a-7f6c-40df-819c-2bc4640488a4)
-αυτό είναι ένα μικρό πειραματικό κείμενο σε γλώσσα python. Μπορείτε να δείτε τους πίνακες στους οποίους αναφέρεται το κείμενο.
+αυτό είναι ένα μικρό πειραματικό κείμενο σε γλώσσα html. Μπορείτε να δείτε τους πίνακες στους οποίους αναφέρεται το κείμενο.
